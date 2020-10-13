@@ -1,1 +1,1 @@
-# WP_Blog
+# WP
